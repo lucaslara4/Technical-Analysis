@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/Users/lucaslara/Desktop/Inversiones/Analisis Tecnico ETFs/analisistecnico/venv/bin/python3" "$0" "$@"
+'''exec' "/Users/lucaslara/Desktop/Inversiones/Analisis Tecnico ETFs/technicalanalysis/venv/bin/python" "$0" "$@"
 ' '''
 import sys
 from numpy.f2py.f2py2e import main
